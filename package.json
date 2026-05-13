@@ -1,0 +1,14 @@
+{
+  "name": "ai-resume-portfolio-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-powered Resume & Portfolio Builder - Generate professional resumes and portfolio websites using AI",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "keywords": ["resume", "portfolio", "ai", "builder"],
+  "author": "Istiaq Haider",
+  "license": "MIT"
+}
